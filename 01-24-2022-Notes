@@ -1,0 +1,143 @@
+Front End
+- HTML
+- CSS
+- Bootstrap
+- Sass
+- JavaScript
+- jQuery
+- TypeScript
+- Introduction to Angular and React.
+Back End
+-Node.js
+-MongoDB
+-Express
+	       Setup Environment for Web Development
+	       ================================
+1. Download and Install  "node.js" on your PC.
+    - We are installing node.js for a package manager called NPM.
+    - Package Manager is a software tool used to download and install
+      various libraries required for project.
+    - There are various package managers
+		NPM
+		Yarn
+		Bower
+		NuGet
+		RubGems etc..
+    - NPM is a package manager comes with Node.js
+
+	           www.nodejs.org
+	         [download - 16.13.2]
+
+2. Check the version of Node.js and NPM
+
+	C:\> node  -v
+	C:\> npm -v
+
+3. Download and Install "Visual Studio Code" editor
+    - Editor is a tool that provides an IDE [Integrated Development Environment]
+    - Building, Debugging, Testing and Deploying.
+
+	www.editorconfig.org
+    - Download from 
+	https://code.visualstudio.com/
+
+Note: Not Visual Studio - It is Visual Studio Code
+
+4. Download and Install following extensions in Visual Studio Code
+
+	- Live Server  [Ritwick Dey]
+	  [Local Server]
+
+	- Cloud Server
+	  [Azure, AWS, Firebase, GITHubPages etc..]
+
+What is a Web Server?
+Web Server resembles both hardware and software.
+It satisfies the client request by sending and receving data.
+Popular Web Server Software tools
+	- IIS [Internet Information Services Manager]
+	- Tomcat  etc..
+
+Summary
+=======
+1. Installed Package Manager - NPM
+2. Installed Editor  - Visual Studio Code
+3. Installed Extension - Live Server
+
+
+		Create a new Project
+		================
+		   [Web Application]
+
+- What is a Web Server?
+
+FAQ: What is a Web Site?
+Ans : Web site is a virtual directory on web server.
+           
+	http://localhost   (or)   http://127.0.0.1
+
+
+	http://localhost/amazonprime	: Virtual Path
+                C:\amazonprime
+
+
+Create a New Website:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
