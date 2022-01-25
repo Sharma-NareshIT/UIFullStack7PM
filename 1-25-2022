@@ -1,0 +1,88 @@
+Create a new Web Project
+-----------------------------------
+1. Create a new folder for project on your PC.
+
+	D:\Fullstack-WebApp
+
+2. Open VS Code editor
+
+3. File -> open folder ->  D:\Fullstack-WebApp
+
+4. Go to Terminal menu and select "New Terminal"
+
+5. Change the terminal from Power Shell to "Command Prompt"
+
+            D:\Fullstack-WebApp>
+
+6. Run the following command
+
+	> npm  init  -y
+
+7. This will add  "package.json" into project
+
+Note : For Icons add a new extension  "vscode-icons"
+
+FAQ: What is package.json?
+Ans:  Package file that comprises of project meta data.
+         [Version, Author, Dependencies etc..]
+
+8. Add following folders into Project
+
+ a) public
+ b) src
+
+    public folder comprises of static resources.
+    [html, images, text, pdf, word, ppt, video, audio etc..]
+
+    src folder comprises of dynamic resources.
+    [.css, .scss, .js, .ts etc..]
+
+
+9. Every project starts with "index.html" file
+
+
+10. Go to "public" folder and add a new file "index.html"
+
+               "Welcome to Web Development"
+
+11. Right Click in the file 
+	"Open With Live Server"
+
+    Open Browser and Type :
+             http://127.0.0.1:5500
+
+
+FAQ: What is Index.html?
+Ans:  It is a web page. Application start with a web page index.html.
+
+FAQ: What is a WebPage?
+Ans:  A WebPage is a Hyper Text Document that provides an UI
+         [User Interface] form where user can interact with the resources.
+
+          Hyper 	=  Beyond
+
+         The web pages are classified into 2 types
+
+	a) Static Pages
+	b) Dynamic Pages
+
+
+ Static Page: It comprises of same information to display across
+                     any number of requests.
+ 		.html, .htm
+
+ Dynamic Page: It can change according to the request.		
+		.asp, jsp, php, aspx 
+
+
+		                 HTML
+ - Static Pages
+
+
+
+
+
+
+
+
+
