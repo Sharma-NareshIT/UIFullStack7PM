@@ -1,0 +1,67 @@
+		            HTML 
+	            [Hyper Text Markup Language]
+
+- The term "Hyper" means "Beyond"
+- Hyper Text comprises of content beyond what you see.
+- Markup is general computer term derived from "Marking Up"
+- Markup language is a language used for presentation.
+- It is used for presenting on Browser. 
+
+Evolution:
+- The first Markup language used for Internet was GML built by CERN
+- After GML [Generic Markup Language] - We use SGML [Standard]
+- 1990's "Tim Berner Lee" introduced the concept of "Web" & HTML.
+- HTML is superset to GML and SGML.
+- IETF Group started developing HTML  upto 3.2
+- 2004 W3C and WHATWG  started developing HTML 
+   World Wide Web Consortium 
+   Web Hyper Text Application Technology Work Group
+- HTML Version 4, 
+- HTML Latest Version 5.  [2014]
+
+		       Browser Architecture
+		       ================
+Markup => Bytes => Chars => Token => Elements => DOM => Layout => Render => Paint
+
+HTML is a collection of Elements arranged in a Hierarchy called DOM.
+[Document Object Model]
+
+HTML Elements are classified into 5 Groups
+1. Normal Elements
+2. Void Elements
+3. RC Data Elements
+4. Raw Text Elements
+5. Foreign Elements
+
+Normal Elements:
+- It returns a presentation directly on call back.
+- It doesn't require additional attributes.
+- It starts but can't stop implicitly.
+- You have to stop explicitly by using end token.
+
+      start tag	<b>
+      end tag	</b>
+
+Void Elements:
+- The term void means no return value.
+- It will not paint anything. [Empty]
+- It will paint only content asked to.
+- Doesn't require end tag
+
+    <img>
+ 
+RC Data Elements
+- Rich Content Data Elements
+
+<textarea>
+
+Raw Text Elements
+
+
+Foriegn elements
+
+   SVG, MathML, Canvas
+
+HTML Page Structure:
+
+
