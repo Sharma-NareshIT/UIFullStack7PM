@@ -1,0 +1,94 @@
+HTML Page Structure
+
+1. HTML Static page will have extension ".html  or .htm"
+
+FAQ: What is difference between .html and .htm ?
+Ans : No-difference
+
+2. Static Page starts with "Document Declaration"
+
+	<!DOCTYPE html>
+
+    It defines that we are using HTML 5 
+
+3. Page must contain Document Scope
+
+	<html>
+
+	</html>
+
+4. A document can display contents belonging to various regional languages. 
+	          <html  lang="en-in">
+
+
+5. Every Document Scope comprises of 2 sections
+	
+	a) Head	<head> </head>
+	b) Body	<body> </body>
+
+
+Head Section:
+- It comprises of content which is intended to load into browser memory.
+- HTML head section usually comprises of
+	1. title
+	2. link
+	3. meta
+	4. script
+	5. style
+
+ title :
+ - Title contains text to display in browser titlebar.
+ - Title is also used in bookmarks.
+
+	<head>
+	   <title> Amazon | India </title>
+	</head>
+
+link :
+ - It is used to link external file to webpage.
+ - External file can be a shortcut icon [favicon] or stylesheet
+
+Ex: Creating a Shortcut Icon
+1. Favicon  must have extension  ".ico"
+2. Favicon  must be  between  16x16   and  32x32  pixel size.
+3. Add a new file into public folder 
+	"favicon.ico"
+
+4. right click on file - > Open in file exporer
+
+5. right click on icon file -> open with mspaint
+
+6. draw your icon with size  30x30 px
+
+7. save
+
+8. Go to HTML page and link in head
+	
+	<head>
+	<title> Amazon | India </title>
+	<link rel="shortcut icon" href="favicon.ico">
+	</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
